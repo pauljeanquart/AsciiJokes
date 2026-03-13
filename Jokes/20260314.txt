@@ -1,0 +1,34 @@
+Developer                                  Production
+       |                                           |
+       |  Okay, tiny change.                       |
+       |------------------------------------------>|
+       |                                           |
+       |  Just refactored a little code.           |
+       |------------------------------------------>|
+       |                                           |
+       |                           How little?
+       |                                           |
+       |  One file.                                |
+       |------------------------------------------>|
+       |                                           |
+       |                           How many lines?
+       |                                           |
+       |  ...all of them.                          |
+       |------------------------------------------>|
+       |                                           |
+       |                          .................
+       |                                           |
+       |                      *deploys anyway*
+       |                                           |
+       |                    __________________
+       |                   /                  \
+       |                  |   🔥🔥🔥🔥🔥🔥🔥   |
+       |                  |   EVERYTHING      |
+       |                  |      BROKE        |
+       |                   \__________________/
+       |
+       |  ...huh.
+       |
+       |  That test should have caught that.
+       |
+       |                     (there were no tests)
