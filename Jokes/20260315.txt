@@ -1,0 +1,29 @@
+Senior Dev                                New Developer
+         |                                            |
+         |  Welcome to the team!                      |
+         |------------------------------------------->|
+         |                                            |
+         |  First rule: don't touch the auth code.    |
+         |------------------------------------------->|
+         |                                            |
+         |                          Why not?
+         |                                            |
+         |  No one knows how it works.                |
+         |------------------------------------------->|
+         |                                            |
+         |                          Then why not fix it?
+         |                                            |
+         |  Because...                                |
+         |                                            |
+         |  the last person who tried…                |
+         |------------------------------------------->|
+         |                                            |
+         |                    ______________________
+         |                   |                      |
+         |                   |  git blame auth.js   |
+         |                   |                      |
+         |                   |  Author: New Dev     |
+         |                   |  Date: Yesterday     |
+         |                   |______________________|
+         |
+         |  ...was you.
