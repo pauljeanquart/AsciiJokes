@@ -1,0 +1,62 @@
+Title: The Query
+
+Panel 1
+Developer
+   o
+  /|\
+  / \
+
+Dev: The database is slow again.
+
+
+Panel 2
+DBA
+   o
+  /|\
+  / \
+
+DBA: What query are you running?
+
+
+Panel 3
+Developer
+   o
+  /|\
+  / \
+
+Dev: Just a simple one.
+
+
+Panel 4
+DBA                           Developer
+   o                              o
+  /|\                            /|\
+  / \                            / \
+
+DBA: Show me.
+
+Dev:
+SELECT *
+FROM users
+JOIN orders
+JOIN order_items
+JOIN products
+JOIN reviews
+JOIN categories
+JOIN vendors
+JOIN shipping
+JOIN warehouses
+JOIN inventory
+-- no ON clauses
+
+
+Panel 5
+
+DBA
+   o
+  /|\
+  / \
+
+DBA: That's not a query.
+
+DBA: That's a **social network for tables.**
