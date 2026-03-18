@@ -1,0 +1,59 @@
+(On Call at 2:00 AM)
+
+   *phone buzzing violently*
+
+                o
+               /|\
+               / \
+   Dev: ...hello?
+
+                |
+                v
+
+        +----------------------+
+        |   ALERT: HIGH CPU    |
+        +----------------------+
+                |
+                v
+
+        +----------------------+
+        |   ALERT: DB DOWN     |
+        +----------------------+
+                |
+                v
+
+        +----------------------+
+        |   ALERT: EVERYTHING  |
+        |        ON FIRE       |
+        +----------------------+
+
+                |
+                v
+
+               o
+              /|\
+              / \
+   Dev: What changed?
+
+                |
+                v
+
+               o
+              /|\
+              / \
+   Teammate: Nothing.
+
+                |
+                v
+
+        +----------------------+
+        |  DEPLOY 2 MIN AGO    |
+        +----------------------+
+
+                |
+                v
+
+               o
+              /|\
+              / \
+   Dev: ...of course.
