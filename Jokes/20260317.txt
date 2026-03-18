@@ -1,0 +1,46 @@
+Manager: This should be a quick fix, right?
+
+                o
+               /|\
+               / \
+                |
+                |
+                v
+
+               o
+              /|\
+              / \
+        Dev: Yeah, just a small change.
+
+                |
+                v
+
+        +----------------------+
+        |    ONE LINE CHANGE   |
+        +----------------------+
+                |
+                v
+
+        +----------------------+
+        |   47 FILES MODIFIED  |
+        +----------------------+
+                |
+                v
+
+        +----------------------+
+        |    3 NEW SERVICES    |
+        +----------------------+
+                |
+                v
+
+        +----------------------+
+        |     FULL REWRITE     |
+        +----------------------+
+
+                ^
+                |
+               o
+              /|\
+              / \
+
+   Dev: ...still technically one change.
