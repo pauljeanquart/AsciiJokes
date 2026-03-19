@@ -36,3 +36,93 @@ Q: Can you start tomorrow?
 A: "Only if your coffee machine supports remote branch merging".
 Q: Rate your skills from 1-10.
 A: "I would say 8, but that is assuming the scale is logarithmic, not linear!". 
+
+What do you call software that kills some one?
+Code-blooded murderer
+
+What did the .NET developer name their boat?
+Sea Sharp
+
+I like my coffee like I like my IDEs…
+Dark and free
+
+What’s a better name for Frontend Developers?
+<div>elopers
+
+Which Hogwarts house is able to communicate securely?
+SSLytheryn
+
+You know how a hacker escapes the FBI?
+\FBI
+
+What’s the difference between a delicious dinner and a slow computer?
+One’s a rack of lamb and the other’s a lack of RAM.
+
+What is a software developer’s favorite herb?
+Parsley
+
+What is a web developer’s favorite tea?
+URL Grey
+
+What do toll booths and Microsoft have in common?
+They’re both bill gates
+
+What’s a programmer’s favorite horror movie?
+The XORcist
+or
+The BLOB
+
+What do you call people who used the internet before it was cool?
+Httpsters
+
+What does an embedded systems programmer eat for breakfast?
+“char i/o”s
+
+Why do opticians hate Microsoft software developers?
+Because they C#
+
+Why aren't frontend developers humble?
+They display: flex;
+
+You know what screams “I’m insecure”?
+http://
+
+Why did the programmer cross the road?
+To get to the other IDE
+
+What did Peter Parker do after he lost his job as a photographer at the Daily Bugle?
+He transitioned into web development.
+
+Why was a web developer’s boat always sinking?
+They had too many anchors.
+
+Why are i and j are good sources of information?
+Because they’re always in the loop
+
+How did pirate communicate before the internet?
+pier-to-pier networking
+
+Why do software developers use dark themes?
+Because bugs are attracted to the light.
+
+Why do SQL developers have one of the highest rates of divorce?
+Because they have one-to-many relationships.
+
+What’s a programmer’s favorite beverage?
+soda.pop()
+
+What is a programmer’s favorite kind of dog?
+Computer Labs.
+
+What do you call a group of eight hobbits?
+A hobbyte
+
+Why do web developers wear glasses?
+To improve their site.
+
+Why did the IRS decide to investigate a software company that makes command line interpreters?
+It’s a shell company.
+
+What’s the easiest way to find a public bathroom?
+Look up the IP address
+
