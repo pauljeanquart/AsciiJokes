@@ -1,0 +1,15 @@
+How does Batman schedule his roster of sidekicks?
+With a round robin scheduler.
+
+I'm feeling a little nostalgic for git reset.
+That takes me back.
+
+A neurologist was diagnosing a patient who lost his ability to do basic math.
+"What’s 9 plus 9?”
+“12.”
+“What’s 8 and 8?”
+“10.”
+The doctor shook his head. “Very interesting. What about 6 times 5?”
+The man thought for a second, and answered “1E.”
+“Aha, I’ve figured it out!” The doctor said. “Somebody’s clearly put a hex on you.”
+
