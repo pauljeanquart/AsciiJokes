@@ -13,3 +13,26 @@ The doctor shook his head. “Very interesting. What about 6 times 5?”
 The man thought for a second, and answered “1E.”
 “Aha, I’ve figured it out!” The doctor said. “Somebody’s clearly put a hex on you.”
 
+Witty Technical Answers
+Q: What is a variable?
+A: "A value that changes based on conditions, like my estimated completion time for this project".
+Q: How do you get "unstuck" on a hard problem?
+A: "I explain it to a rubber duck. If that doesn't work, I buy a second duck".
+Q: What is your biggest weakness?
+A: "I often forget that I'm not supposed to rewrite the entire codebase just to change a button color".
+Q: How do you handle bugs?
+A: "I don't have bugs. I have unexpected, surprise features". 
+
+Answers to Quirky Questions
+Q: If you were a song, which one would you be?
+A: " 'Under Pressure' by Queen—both because of the deadlines and because it’s a classic".
+Q: Should ghosts be fast or slow?
+A: "Slow, definitely. It makes them easier to optimize for a better user experience".
+Q: What would you ask if you were interviewing yourself?
+A: "Well, I'm out of questions. Uh... what would you ask if you were interviewing yourself?" (Demonstrates recursion). 
+
+Handling "The Interviewer"
+Q: Can you start tomorrow?
+A: "Only if your coffee machine supports remote branch merging".
+Q: Rate your skills from 1-10.
+A: "I would say 8, but that is assuming the scale is logarithmic, not linear!". 
