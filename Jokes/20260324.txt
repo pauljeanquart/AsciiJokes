@@ -1,0 +1,2 @@
+Why did the developer stay calm during the outage?
+Because they had plenty of cache—and knew how to handle the exception.
